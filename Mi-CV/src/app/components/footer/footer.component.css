@@ -1,6 +1,6 @@
 .row{background: blueviolet;}
 footer{
-    color: brown;
+    color: grey;
     font-size: 14px;
     display: flex;
     flex-direction: column;
