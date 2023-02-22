@@ -1,1 +1,7 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 #logoAP{width: 200px;}
+img{width: 50px;}
