@@ -1,0 +1,9 @@
+
+*.gradle
+Mi-CV/Backend/mavenproject1/gradle/wrapper/gradle-wrapper.jar
+Mi-CV/Backend/mavenproject1/gradle/wrapper/gradle-wrapper.properties
+Mi-CV/Backend/mavenproject1/gradle/wrapper/gradle-wrapper.jar
+Mi-CV/Backend/mavenproject1/gradlew
+*.jar
+*.properties
+*.bat
