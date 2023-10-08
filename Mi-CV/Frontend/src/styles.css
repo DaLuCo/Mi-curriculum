@@ -1,8 +1,5 @@
 body{margin: 1rem;}
 img
   {width: 10rem;
-    height: 10rem;}
+   height: 10rem;}
 .Fondo{background-color: rgb(182, 135, 226)}
-table
-  {table-layout: fixed;
-   width: 2rem;}
