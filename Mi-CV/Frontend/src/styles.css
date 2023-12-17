@@ -2,14 +2,11 @@ header {
   font-family: 'Calligraffitti', cursive;
   color: black;
   font-size: xx-large;
-  text-align: center;}
+  text-align: center;
+  font-weight: bolder;}
   
 body{
   margin: 1rem;
   background-color: rgb(182, 135, 226);
   font-size: large;
   font-style: calibri;}
-
-img
-  {width: 10rem;
-   height: 10rem;}
