@@ -6,7 +6,18 @@ header {
   font-weight: bolder;}
   
 body{
-  margin: 2rem;
   background-color: rgb(240, 240, 119);
+  margin: 2rem;  
   font-size: large;
   font-style: calibri;}
+
+section{
+  background-color: blueviolet;
+  font-size: large;
+  font-style: calibri;}
+
+div {display: flex; justify-content: space-around;}
+.img {  
+  width: 5rem;
+  height: 5rem;}
+

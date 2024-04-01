@@ -5,10 +5,13 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import {HttpClientModule } from '@angular/common/http';
 import { HeaderComponent } from './Components/header/header.component';
+import { RedesComponent } from './Components/redes/redes.component';
 
 @NgModule({
   declarations: [
-    HeaderComponent
+    AppComponent,
+    HeaderComponent,
+    RedesComponent
   ]
    
  ,
