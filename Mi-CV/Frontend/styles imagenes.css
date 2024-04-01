@@ -3,8 +3,6 @@ img {
   height: 10rem;
   float: right;}
 
-section {background-color: blueviolet;}
-
 article {display: flex; justify-content: space-around;}
 .img {  
   width: 5rem;
